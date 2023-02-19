@@ -33,7 +33,17 @@ Admin Panel -> Agents -> Roles.
 
 Supreme Admin:
 
-Definitions Permissions More Permissions Even More Permissions Sys Admin Success
+![ROLE](assets/Role1.png)
+
+![ROLE](assets/role2.png)
+
+![ROLE](assets/role3.png)
+
+![ROLE](assets/role4.png)
+
+![ROLE](assets/role5.png)
+
+
 
 
 
@@ -43,7 +53,9 @@ Admin Panel -> Agents -> Departments.
 
 System Administrators:
 
-System Administrators System Administrators
+![ROLE](assets/dep1.png)
+
+![ROLE](assets/dep2.png)
 
 
 
@@ -53,7 +65,7 @@ Admin Panel -> Agents -> Teams.
 
 Level II Support:
 
-Level II Support
+![ROLE](assets/team.png)
 
 
 
@@ -63,7 +75,7 @@ Admin Panel -> Settings -> User Settings.
 
 Make sure "Require registration and login to create tickets" is not selected:
 
-ticket creations
+![ROLE](assets/settings.png)
 
 
 
@@ -73,19 +85,21 @@ Admin Panel -> Agents -> Add New.
 
 Jane Doe:
 
-agent one access
+![ROLE](assets/jane.png)
 
 John Doe:
 
-agent two agent two access
+![ROLE](assets/john.png)
+
+![ROLE](assets/john2.png)
 
 Configure Users (customers)
 
 Admin Panel -> Users -> Add New.
 
-Ken User:
+Karen User:
 
-user access
+![ROLE](assets/karen.png)
 
 Repeat the same above for Karen User.
 
@@ -97,11 +111,16 @@ Admin Panel -> Manage -> SLA.
 
 Sev-A (1 hour, 24/7).
 
+![ROLE](assets/seva.png)
+
 Sev-B (4 hours, 24/7).
+
+![ROLE](assets/sevb.png)
 
 Sev-C (8 hours, business hours):
 
-sev one sev two sev three
+![ROLE](assets/sevc.png)
+
 
 
 
@@ -111,13 +130,19 @@ Admin Panel -> Manage -> Help Topics.
 
 Business Critical Outage.
 
+![ROLE](assets/bus.png)
+
 Personal Computer Issues.
+
+![ROLE](assets/comp.png)
 
 Equipment Request.
 
+![ROLE](assets/equ.png)
+
 Password Reset.
 
-business critical outage personal computer issues equipment request password reset
+![ROLE](assets/pass.png)
 
 
 
