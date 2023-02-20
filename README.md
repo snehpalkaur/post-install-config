@@ -145,7 +145,6 @@ Password Reset.
 ![ROLE](assets/pass.png)
 
 
+And with that, osTicket has been configured. 
 
-And now we are done configure osTicket. I hope this tutorial helped. All that's left is to practice triaging and solving tickets.
-
-This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and it's customers when it comes to handling issues regarding a product or service they provide.
+As the first point of contact between a business and its consumers when resolving problems relating to a product or service they offer, this is a crucial competency for any help desk employee to possess.
